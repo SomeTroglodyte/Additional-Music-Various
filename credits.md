@@ -152,3 +152,18 @@ License: https://filmmusic.io/standard-license
 Waltz Primordial (feat. Alexander Nakarada) by Kevin MacLeod
 Link: https://incompetech.filmmusic.io/song/7929-waltz-primordial
 License: https://filmmusic.io/standard-license
+
+- [Sad Funeral March - Defeat.mp3](https://filmmusic.io/song/8198-sad-funeral-march)
+Sad Funeral March by MusicLFiles
+Link: https://filmmusic.io/song/8198-sad-funeral-march
+License: https://filmmusic.io/standard-license
+
+- [Music for Funeral Home - Defeat.mp3](https://filmmusic.io/song/4093-music-for-funeral-home---part-11)
+Music for Funeral Home - Part 11 by Kevin MacLeod
+Link: https://filmmusic.io/song/4093-music-for-funeral-home---part-11
+License: https://filmmusic.io/standard-license
+
+- [Funeral March for Brass - Defeat.mp3](https://filmmusic.io/song/3785-funeral-march-for-brass)
+Funeral March for Brass by Kevin MacLeod
+Link: https://filmmusic.io/song/3785-funeral-march-for-brass
+License: https://filmmusic.io/standard-license
