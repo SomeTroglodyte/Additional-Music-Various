@@ -167,3 +167,5 @@ License: https://filmmusic.io/standard-license
 Funeral March for Brass by Kevin MacLeod
 Link: https://filmmusic.io/song/3785-funeral-march-for-brass
 License: https://filmmusic.io/standard-license
+
+Mod preview uses the cover image of [Ancient Winds](https://filmmusic.io/song/5725-ancient-winds-preview), which is actually included in the "Additional Music - Ambient mod", but it seemed more fitting.
