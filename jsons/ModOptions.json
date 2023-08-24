@@ -1,1 +1,6 @@
-{compatibility:"Permanent audiovisual mod"}
+{
+    "author":"SomeTroglodyte",
+    "uniques":[
+        "Should only be used as permanent audiovisual mod"
+    ]
+}
